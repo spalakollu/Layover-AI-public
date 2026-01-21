@@ -151,7 +151,7 @@ With:
 
 ## 📚 Documentation
 
-- Architecture overview
+- Architecture overview 
 - ML training guides
 - API documentation
 - Deployment guides
@@ -179,7 +179,7 @@ Built by **Sai Vamsy Palakollu**
 
 **Made with ❤️ for travelers around the world**
 
-[Website](https://www.layover.co) • [Support](mailto:support@layover.co)
+[Website](https://www.layover.co) • [Support](mailto:support@archisystech.co)
 
 </div>
 
