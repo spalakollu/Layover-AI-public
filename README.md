@@ -9,7 +9,7 @@ A live AI-powered travel platform helping passengers discover, connect, and make
 [![Version](https://img.shields.io/badge/version-1.0.3-blue.svg)](#)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue.svg)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/license-Private-red.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 </div>
 
@@ -162,8 +162,7 @@ With:
 
 ## 📄 License
 
-This project is private and proprietary.  
-All rights reserved.
+MIT — see [LICENSE](LICENSE).
 
 ---
 
